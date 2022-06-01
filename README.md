@@ -49,23 +49,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## Support
 For questions, comments or concerns regarding the Lockhart Lounge application, please get in contact with any of the contributors listed below.
 
-## Contributors
-
-| Barrett
------------- 
-
-[<img src="https://avatars1.githubusercontent.com/u/65679541?s=400&u=d2208093e9b56347e9a0892f124a6250c2abb030&v=4" width="100px;"/><br /><sub><b>Barrett Pope</b></sub>](https://github.com/Barrettpope)<br />[💻](https://github.com/Barrettpope?tab=repositories "Repositories")
-
-| TJ
------------- 
-
-[<img src="https://avatars1.githubusercontent.com/u/64603357?s=400&u=da2d17446426e2975d84ca698ef3fca4eae39233&v=4" width="100px;"/><br /><sub><b>TJ Fitzpatrick</b></sub>](https://github.com/TJFitz)<br />[💻](https://github.com/TJFitz?tab=repositories "Repositories")
-
-| Dan
------------- 
-
-[<img src="https://avatars2.githubusercontent.com/u/64825652?s=400&u=12c6db94f30dee221dd6e34d769b4c444b733f8d&v=4" width="100px;"/><br /><sub><b>Dan Howe</b></sub>](https://github.com/easyacres)<br />[💻](https://github.com/easyacres?tab=repositories "Repositories")
-
+## Author
 | Henry
 ------------ 
 
