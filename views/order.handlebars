@@ -1,0 +1,44 @@
+<!-- Menu Section -->
+<section id="menu" class="menu">
+    <div class="container">
+        <div>
+            <h2 class="menu-sub-headline">Menu <span class="line">--------</span></h2>
+            <h1 class="menu-headline">Our Tasty Menu</h1>
+            <a href="/" class="btn cta-btn">Back Home</a>
+            <br>
+        </div>
+
+        <div class="row">
+
+            {{#each menu}}
+
+
+            <div class="col-md-4">
+                <div class="menu-item">
+                    <img src="{{this.image}}" class="d-block w-100 menu-img" alt="">
+                    <div class="item-info">
+                        <div class="item-content">
+                            <h4>{{this.name}}</h4>
+                            <span>{{this.description}}</span>
+                        </div>
+                        <div class="online-order">
+                            <p class="sub-menu-text">${{this.price}} <span><i class="fas fa-seedling">
+                                    </i></span> {{this.tags}}</p>
+                            <br>
+                            <button class="addToCart cart-btn" data-price="{{this.price}}" data-name="{{this.name}}">Add
+                                to
+                                cart</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {{/each}}
+
+            <div class="container">
+                <button id="checkout">Checkout</button>
+            </div>
+
+            <!-- End Reservations Section -->
+
+</section>
